@@ -19,13 +19,13 @@ Seven standalone tools, each built to solve a specific Dungeon Master pain point
 
 | | Tool | What It Does |
 |---|------|-------------|
-| :crossed_swords: | **[Saga](https://github.com/Jarredkern/saga)** | Campaign management — characters, timelines, badges, dice roller, initiative tracker |
-| :hammer_and_pick: | **[Loreforge](https://github.com/Jarredkern/loreforge)** | Template-driven worldbuilding — 30 structured prompts across 6 categories, no AI |
-| :spider_web: | **[Intrigue](https://github.com/Jarredkern/intrigue)** | NPC relationship mapper — interactive D3.js force-directed network graph |
-| :scroll: | **[Oath](https://github.com/Jarredkern/oath)** | Session zero generator — social contracts, safety tools, tone templates |
-| :world_map: | **[Outlands](https://github.com/Jarredkern/outlands)** | Hex crawl generator — SVG hex maps with terrain painting and encounters |
-| :balance_scale: | **[Favor](https://github.com/Jarredkern/favor)** | Faction reputation tracker — character-faction heatmap with 6 tiers |
-| :studio_microphone: | **[Voicecraft](https://github.com/Jarredkern/voicecraft)** | NPC voice profiles — dialect mixing, coaching prompts, sample dialogue |
+| :crossed_swords: | **[Saga](https://github.com/DarkCandyLord/saga)** | Campaign management — characters, timelines, badges, dice roller, initiative tracker |
+| :hammer_and_pick: | **[Loreforge](https://github.com/DarkCandyLord/loreforge)** | Template-driven worldbuilding — 30 structured prompts across 6 categories, no AI |
+| :spider_web: | **[Intrigue](https://github.com/DarkCandyLord/intrigue)** | NPC relationship mapper — interactive D3.js force-directed network graph |
+| :scroll: | **[Oath](https://github.com/DarkCandyLord/oath)** | Session zero generator — social contracts, safety tools, tone templates |
+| :world_map: | **[Outlands](https://github.com/DarkCandyLord/outlands)** | Hex crawl generator — SVG hex maps with terrain painting and encounters |
+| :balance_scale: | **[Favor](https://github.com/DarkCandyLord/favor)** | Faction reputation tracker — character-faction heatmap with 6 tiers |
+| :studio_microphone: | **[Voicecraft](https://github.com/DarkCandyLord/voicecraft)** | NPC voice profiles — dialect mixing, coaching prompts, sample dialogue |
 
 ---
 
@@ -52,7 +52,7 @@ Seven standalone tools, each built to solve a specific Dungeon Master pain point
 
 <div align="center">
 
-![Jared's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jarredkern&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
+![Jared's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarkCandyLord&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
 
 ---
 
