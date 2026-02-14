@@ -1,6 +1,6 @@
 <div align="center">
 
-# Jared Kern
+# Jarred Kern
 
 *I build tools for people who run imaginary worlds.*
 
