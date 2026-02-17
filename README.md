@@ -30,11 +30,19 @@ All system-agnostic. D&D, Pathfinder, Mothership, Blades in the Dark, your homeb
 
 ---
 
+## Also
+
+| | Tool | What It's For |
+|---|------|-------------|
+| :crab: | **[Pinch](https://github.com/DarkCandyLord/pinch)** | Real-time Claude usage monitor for your Windows taskbar. Tiny pill widget — green/yellow/red at a glance so you never get rate limited mid-conversation |
+
+---
+
 ## Right Now
 
 - Growing a D&D memes TikTok channel
 - Looking for IT / dev work, remote preferred
-- Probably already thinking about tool number eight
+- Probably already thinking about tool number nine
 
 ---
 
@@ -43,8 +51,8 @@ All system-agnostic. D&D, Pathfinder, Mothership, Blades in the Dark, your homeb
 
 <br>
 
-TypeScript, Next.js, React, Tailwind CSS, Prisma, SQLite, D3.js, Framer Motion.
+TypeScript, Next.js, React, Tailwind CSS, Prisma, SQLite, D3.js, Framer Motion, Python.
 
-Every app is standalone with its own local database. No accounts, no cloud dependency, no signup walls. Just tools that work offline at your table.
+Every app is standalone with its own local database. No accounts, no cloud dependency, no signup walls. Just tools that work.
 
 </details>
