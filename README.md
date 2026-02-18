@@ -2,57 +2,61 @@
 
 # Jarred Kern
 
-*I build tools for people who run imaginary worlds.*
-
 </div>
 
----
+Ten years running Elusive Designs — freelance web dev for small businesses. WordPress, WooCommerce, hosting, graphic design, whatever they needed. Somewhere around a hundred clients. Before that, overnight shifts at a network operations center.
 
-I'm a solo dev from a small town who keeps making TTRPG tools because I keep finding things that don't exist yet. Seven apps and counting. Each one started as "I wish someone would build this" and ended as "fine, I'll do it myself."
-
-These aren't just for D&D Dungeon Masters — they're for GMs, players, worldbuilders, writers, solo RPG journalers, actual play hosts, and anyone else whose brain won't stop generating fictional places and the people who live in them. If you run a world in any system, something here is probably useful to you.
+Now I'm building full-stack applications with React, Next.js, TypeScript, and Prisma. Learning by making things I'd actually use instead of following someone's todo app tutorial for the fortieth time. The projects ended up being tools for tabletop RPG game masters, because I kept finding problems nobody had solved yet.
 
 ---
 
-## The Toolkit
+## The ones worth looking at
 
-| | Tool | What It's For |
-|---|------|-------------|
-| :crossed_swords: | **[Saga](https://github.com/CandyFlex/saga)** · [demo](https://saga-app-nine.vercel.app) | Everything about your campaign in one place — characters, sessions, timelines, dice, initiative — instead of scattered across three notebooks and a spreadsheet |
-| :hammer_and_pick: | **[Loreforge](https://github.com/CandyFlex/loreforge)** | Worldbuilding with structure but no autopilot. 30 prompts across 6 categories. No AI. Your words, your world |
-| :spider_web: | **[Intrigue](https://github.com/CandyFlex/intrigue)** · [demo](https://intrigue-app.vercel.app) | Map who knows who and why it matters. Interactive network graph for NPCs, factions, alliances, and secrets |
-| :scroll: | **[Oath](https://github.com/CandyFlex/oath)** | Start campaigns right. Session zero wizard for tone, safety tools, house rules, and what everyone actually expects |
-| :world_map: | **[Outlands](https://github.com/CandyFlex/outlands)** | Paint a hex map, fill it with encounters, and run exploration. For hex crawls and overland travel in any system |
-| :balance_scale: | **[Favor](https://github.com/CandyFlex/favor)** | Track faction politics. Reputation heatmap so you always know where every character stands with every faction |
-| :studio_microphone: | **[Voicecraft](https://github.com/CandyFlex/voicecraft)** | Give every NPC a distinct voice and actually remember it next session. Dialect mixing, coaching prompts, sample lines |
+| | | |
+|---|---|---|
+| :crossed_swords: | **[Saga](https://github.com/CandyFlex/saga)** · [demo](https://saga-app-nine.vercel.app) | Campaign tracker. 19 API endpoints, 8-tab interface, PWA. Characters, sessions, timelines, dice, initiative. The most complete project here. |
+| :spider_web: | **[Intrigue](https://github.com/CandyFlex/intrigue)** · [demo](https://intrigue-app.vercel.app) | NPC relationship mapper. Interactive D3.js network graph. Factions, alliances, secrets. Probably the most technically interesting one. |
+| :studio_microphone: | **[Voicecraft](https://github.com/CandyFlex/voicecraft)** | NPC voice profiles. Every DM has the problem where all their NPCs sound the same. Dialect mixing, coaching prompts, sample lines. |
 
-All system-agnostic. D&D, Pathfinder, Mothership, Blades in the Dark, your homebrew — the tools don't care about your edition.
+## Still cooking
 
----
+| | | |
+|---|---|---|
+| :hammer_and_pick: | **[Loreforge](https://github.com/CandyFlex/loreforge)** | Worldbuilding prompts. 30 across 6 categories. No AI, just structure. |
+| :scroll: | **[Oath](https://github.com/CandyFlex/oath)** | Session zero wizard. Tone, safety tools, house rules. |
+| :world_map: | **[Outlands](https://github.com/CandyFlex/outlands)** | Hex crawl map editor. Paint terrain, drop encounters, run exploration. |
+| :balance_scale: | **[Favor](https://github.com/CandyFlex/favor)** | Faction reputation tracker. Heatmap grid so you know where everyone stands. |
 
-## Also
-
-| | Tool | What It's For |
-|---|------|-------------|
-| :crab: | **[Pinch](https://github.com/CandyFlex/pinch)** | Real-time Claude usage monitor for your Windows taskbar. Tiny pill widget — green/yellow/red at a glance so you never get rate limited mid-conversation |
+System-agnostic. D&D, Pathfinder, Mothership, homebrew, whatever.
 
 ---
 
-## Right Now
-
-- Growing a D&D memes TikTok channel
-- Looking for IT / dev work, remote preferred
-- Probably already thinking about tool number nine
+| | | |
+|---|---|---|
+| :crab: | **[Pinch](https://github.com/CandyFlex/pinch)** | Claude usage monitor for Windows. Taskbar pill that goes green/yellow/red. Nothing to do with D&D — just got tired of hitting rate limits blind. |
 
 ---
+
+- Looking for remote IT or dev work
+- Growing a D&D memes TikTok
+- Shelby, NC
 
 <details>
 <summary>Stack</summary>
-
 <br>
 
-TypeScript, Next.js, React, Tailwind CSS, Prisma, SQLite, D3.js, Framer Motion, Python.
+TypeScript, Next.js, React, Tailwind, Prisma, SQLite, D3.js, Framer Motion, Python.
 
-Every app is standalone with its own local database. No accounts, no cloud dependency, no signup walls. Just tools that work.
+Everything runs local with its own database. No accounts, no cloud dependency, no signup walls.
+</details>
 
+<details>
+<summary>Background</summary>
+<br>
+
+Started in IT — overnight shifts at a network operations center. Hardware installs, structured cabling, infrastructure monitoring.
+
+Then ten years of Elusive Designs. WordPress, WooCommerce, hosting, design. Hundred-something clients, full lifecycle — scoping, building, maintaining, answering the phone when something broke at 11pm.
+
+The modern stack is new. The problem-solving isn't.
 </details>
