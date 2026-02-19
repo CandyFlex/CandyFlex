@@ -42,6 +42,7 @@ System-agnostic. D&D, Pathfinder, Mothership, homebrew, whatever.
 ---
 
 - Open to product, design, or development work
+- [jarredkern.vercel.app](https://jarredkern.vercel.app)
 - Growing a D&D memes TikTok
 - Shelby, NC
 
