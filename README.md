@@ -2,11 +2,15 @@
 
 # Jarred Kern
 
+**Design. Development. Product.**
+
 </div>
 
-Ten years running Elusive Designs — freelance web dev for small businesses. WordPress, WooCommerce, hosting, graphic design, whatever they needed. Somewhere around a hundred clients. Before that, overnight shifts at a network operations center.
+I design things, I build them, and then I ship them.
 
-Now I'm building full-stack applications with React, Next.js, TypeScript, and Prisma. Learning by making things I'd actually use instead of following someone's todo app tutorial for the fortieth time. The projects ended up being tools for tabletop RPG game masters, because I kept finding problems nobody had solved yet.
+Ten years running Elusive Designs — freelance web dev and branding for small businesses. WordPress, WooCommerce, brand identities, hosting, graphic design, whatever they needed. Somewhere around a hundred clients. The design side was always what pulled me in. Before that, overnight shifts at a network operations center.
+
+Now I'm designing and building full-stack products from scratch. React, Next.js, TypeScript, Prisma. Each project starts as a design problem, then I build the whole thing. The projects ended up being tools for tabletop RPG game masters, because I kept finding problems nobody had designed a good solution for.
 
 ---
 
@@ -14,9 +18,9 @@ Now I'm building full-stack applications with React, Next.js, TypeScript, and Pr
 
 | | | |
 |---|---|---|
-| :crossed_swords: | **[Saga](https://github.com/CandyFlex/saga)** · [demo](https://saga-app-nine.vercel.app) | Campaign tracker. 19 API endpoints, 8-tab interface, PWA. Characters, sessions, timelines, dice, initiative. The most complete project here. |
-| :spider_web: | **[Intrigue](https://github.com/CandyFlex/intrigue)** · [demo](https://intrigue-app.vercel.app) | NPC relationship mapper. Interactive D3.js network graph. Factions, alliances, secrets. Probably the most technically interesting one. |
-| :studio_microphone: | **[Voicecraft](https://github.com/CandyFlex/voicecraft)** | NPC voice profiles. Every DM has the problem where all their NPCs sound the same. Dialect mixing, coaching prompts, sample lines. |
+| :crossed_swords: | **[Saga](https://github.com/CandyFlex/saga)** · [demo](https://saga-app-nine.vercel.app) | Campaign tracker. Designed 8 interconnected views, 19 API endpoints, PWA. The most complete project here. |
+| :spider_web: | **[Intrigue](https://github.com/CandyFlex/intrigue)** · [demo](https://intrigue-app.vercel.app) | NPC relationship mapper. Interactive D3.js network graph I designed from scratch. The hardest design problem I've solved. |
+| :studio_microphone: | **[Voicecraft](https://github.com/CandyFlex/voicecraft)** | NPC voice profiles. Mixer interface for something with no established UI pattern. Dialect coaching, sample lines. |
 
 ## Still cooking
 
@@ -37,7 +41,7 @@ System-agnostic. D&D, Pathfinder, Mothership, homebrew, whatever.
 
 ---
 
-- Looking for remote IT or dev work
+- Open to product, design, or development work
 - Growing a D&D memes TikTok
 - Shelby, NC
 
@@ -45,9 +49,9 @@ System-agnostic. D&D, Pathfinder, Mothership, homebrew, whatever.
 <summary>Stack</summary>
 <br>
 
-TypeScript, Next.js, React, Tailwind, Prisma, SQLite, D3.js, Framer Motion, Python.
+TypeScript, Next.js, React, Tailwind, Prisma, PostgreSQL, D3.js, Framer Motion, Python.
 
-Everything runs local with its own database. No accounts, no cloud dependency, no signup walls.
+Everything designed and built from scratch. No templates, no boilerplate.
 </details>
 
 <details>
@@ -56,7 +60,7 @@ Everything runs local with its own database. No accounts, no cloud dependency, n
 
 Started in IT — overnight shifts at a network operations center. Hardware installs, structured cabling, infrastructure monitoring.
 
-Then ten years of Elusive Designs. WordPress, WooCommerce, hosting, design. Hundred-something clients, full lifecycle — scoping, building, maintaining, answering the phone when something broke at 11pm.
+Then ten years of Elusive Designs. WordPress, WooCommerce, hosting, brand identities, graphic design. Hundred-something clients, full lifecycle — from the logo to the checkout page to the DNS records.
 
-The modern stack is new. The problem-solving isn't.
+My resume reads more like a map than a ladder. That's the whole skill.
 </details>
