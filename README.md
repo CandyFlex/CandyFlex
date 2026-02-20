@@ -14,30 +14,13 @@ Now I'm designing and building full-stack products from scratch. React, Next.js,
 
 ---
 
-## The ones worth looking at
+## Projects
 
 | | | |
 |---|---|---|
-| :crossed_swords: | **[Saga](https://github.com/CandyFlex/saga)** · [demo](https://saga-app-nine.vercel.app) | Campaign tracker. Designed 8 interconnected views, 19 API endpoints, PWA. The most complete project here. |
-| :spider_web: | **[Intrigue](https://github.com/CandyFlex/intrigue)** · [demo](https://intrigue-app.vercel.app) | NPC relationship mapper. Interactive D3.js network graph I designed from scratch. The hardest design problem I've solved. |
+| :crossed_swords: | **[Saga](https://github.com/CandyFlex/saga)** · [demo](https://saga-app-nine.vercel.app) | Campaign tracker for tabletop RPGs. 8 interconnected views, 19 API endpoints, PWA. The most complete thing I've built. |
 | :studio_microphone: | **[Voicecraft](https://github.com/CandyFlex/voicecraft)** | NPC voice profiles. Mixer interface for something with no established UI pattern. Dialect coaching, sample lines. |
-
-## Still cooking
-
-| | | |
-|---|---|---|
-| :alembic: | **[Crucible](https://github.com/CandyFlex/crucible)** | Worldbuilding prompts. 30 across 6 categories. No AI, just structure. |
-| :handshake: | **[Accord](https://github.com/CandyFlex/accord)** | Session zero wizard. Tone, safety tools, house rules. |
-| :world_map: | **[The Outlands](https://github.com/CandyFlex/outlands)** | Hex crawl map editor. Paint terrain, drop encounters, run exploration. |
-| :crown: | **[Renown](https://github.com/CandyFlex/renown)** | Faction reputation tracker. Heatmap grid so you know where everyone stands. |
-
-System-agnostic. D&D, Pathfinder, Mothership, homebrew, whatever.
-
----
-
-| | | |
-|---|---|---|
-| :candle: | **[Wick](https://github.com/CandyFlex/wick)** | Claude usage monitor for Windows. Taskbar pill that goes green/yellow/red. Nothing to do with D&D — just got tired of hitting rate limits blind. |
+| :candle: | **[Pinch](https://github.com/CandyFlex/pinch)** | Claude usage monitor for Windows. Taskbar pill that goes green/yellow/red. Nothing to do with D&D — just got tired of hitting rate limits blind. |
 
 ---
 
