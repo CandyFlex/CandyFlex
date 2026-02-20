@@ -26,10 +26,10 @@ Now I'm designing and building full-stack products from scratch. React, Next.js,
 
 | | | |
 |---|---|---|
-| :hammer_and_pick: | **[Loreforge](https://github.com/CandyFlex/loreforge)** | Worldbuilding prompts. 30 across 6 categories. No AI, just structure. |
-| :scroll: | **[Oath](https://github.com/CandyFlex/oath)** | Session zero wizard. Tone, safety tools, house rules. |
-| :world_map: | **[Outlands](https://github.com/CandyFlex/outlands)** | Hex crawl map editor. Paint terrain, drop encounters, run exploration. |
-| :balance_scale: | **[Favor](https://github.com/CandyFlex/favor)** | Faction reputation tracker. Heatmap grid so you know where everyone stands. |
+| :alembic: | **[Crucible](https://github.com/CandyFlex/crucible)** | Worldbuilding prompts. 30 across 6 categories. No AI, just structure. |
+| :handshake: | **[Accord](https://github.com/CandyFlex/accord)** | Session zero wizard. Tone, safety tools, house rules. |
+| :world_map: | **[The Outlands](https://github.com/CandyFlex/outlands)** | Hex crawl map editor. Paint terrain, drop encounters, run exploration. |
+| :crown: | **[Renown](https://github.com/CandyFlex/renown)** | Faction reputation tracker. Heatmap grid so you know where everyone stands. |
 
 System-agnostic. D&D, Pathfinder, Mothership, homebrew, whatever.
 
@@ -37,7 +37,7 @@ System-agnostic. D&D, Pathfinder, Mothership, homebrew, whatever.
 
 | | | |
 |---|---|---|
-| :crab: | **[Pinch](https://github.com/CandyFlex/pinch)** | Claude usage monitor for Windows. Taskbar pill that goes green/yellow/red. Nothing to do with D&D — just got tired of hitting rate limits blind. |
+| :candle: | **[Wick](https://github.com/CandyFlex/wick)** | Claude usage monitor for Windows. Taskbar pill that goes green/yellow/red. Nothing to do with D&D — just got tired of hitting rate limits blind. |
 
 ---
 
