@@ -21,6 +21,7 @@ Now I'm designing and building full-stack products from scratch. React, Next.js,
 | :crossed_swords: | **[Saga](https://github.com/CandyFlex/saga)** · [demo](https://saga-app-nine.vercel.app) | Campaign tracker for tabletop RPGs. 8 interconnected views, 19 API endpoints, PWA. The most complete thing I've built. |
 | :studio_microphone: | **[Voicecraft](https://github.com/CandyFlex/voicecraft)** | NPC voice profiles. Mixer interface for something with no established UI pattern. Dialect coaching, sample lines. |
 | :candle: | **[Pinch](https://github.com/CandyFlex/pinch)** | Claude usage monitor for Windows. Taskbar pill that goes green/yellow/red. Nothing to do with D&D — just got tired of hitting rate limits blind. |
+| :green_circle: | **[Double Claude](https://github.com/CandyFlex/double-claude)** · [live](https://candyflex.github.io/double-claude/) | Matrix-themed countdown for Claude's 2x usage limits promo. Flip clock, digital rain, CRT scanlines. A meme page that's actually useful. |
 
 ---
 
