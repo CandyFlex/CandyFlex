@@ -1,6 +1,9 @@
-<img src="https://raw.githubusercontent.com/CandyFlex/falloff/main/docs/falloff-mark.svg" width="56" alt="">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+  <img src="assets/banner-light.png" width="100%" alt="Jarred O'Brien, Studio O'Brien. Websites for local businesses, and open tools that measure how they get found.">
+</picture>
 
-# Jarred O'Brien
+<br>
 
 I run [Studio O'Brien](https://studioobrien.com), a web design and local search studio in Shelby, North Carolina. We build websites for local businesses, and we build the tools that measure whether those businesses actually get found.
 
@@ -8,28 +11,35 @@ Most reporting in local search is a screenshot taken from the owner's own shop, 
 
 ## Tools
 
-### Falloff
+<table>
+  <tr>
+    <td width="46%" valign="top">
+      <a href="https://candyflex.github.io/falloff/">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/falloff-dark.png">
+          <img src="assets/falloff-light.png" width="100%" alt="Falloff: a ring map of where one business shows up on Google Maps, with its reach marked at 6.2 km">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <h3><a href="https://github.com/CandyFlex/falloff">Falloff</a></h3>
+      <p>Google shows different businesses depending on where the searcher is standing. Falloff runs one Google Maps search from many locations around a business and maps how far it gets seen, whether it makes the top three, and who shows up instead.</p>
+      <p>
+        <a href="https://candyflex.github.io/falloff/"><b>Website</b></a> &nbsp;·&nbsp;
+        <a href="https://candyflex.github.io/falloff/case-study.html"><b>Case study</b></a> &nbsp;·&nbsp;
+        <a href="https://github.com/CandyFlex/falloff"><b>Source</b></a>
+      </p>
+      <p><code>npx github:CandyFlex/falloff help</code></p>
+    </td>
+  </tr>
+</table>
 
-**[Falloff](https://github.com/CandyFlex/falloff)** · [site](https://candyflex.github.io/falloff/) · [case study](https://candyflex.github.io/falloff/case-study.html)
+## How the work gets done
 
-Google shows different businesses depending on where the searcher is standing. Falloff runs one Google Maps search from many locations around a business and maps how far it gets seen, whether it makes the top three, and who shows up instead.
+| Measure before advising | Numbers you can check | Plain language |
+|---|---|---|
+| A recommendation comes with the reading that produced it. | If a figure cannot be traced back and run again, it does not get published. | A business owner should be able to follow the whole argument without a glossary. |
 
-- Works at 80 checkpoints for a quick read, or thousands for a street-by-street picture.
-- Every figure carries what it is out of, the date it was observed, and the command that reproduces it.
-- A location that could not be checked is reported on its own. It is never counted as a miss.
-- One command withholds every business name, so findings can be published safely.
+## Find the studio
 
-```sh
-npx github:CandyFlex/falloff help
-```
-
-## How I work
-
-- **Measure before advising.** A recommendation should come with the reading that produced it.
-- **Numbers you can check.** If a figure cannot be traced back and run again, it does not get published.
-- **Plain language.** A business owner should be able to follow the whole argument without a glossary.
-
-## Elsewhere
-
-- [studioobrien.com](https://studioobrien.com): the studio, its work, and how to hire us
-- [The Field Guide](https://studioobrien.com/blog/): plain-language writing on local search and small business websites
+**[studioobrien.com](https://studioobrien.com)** &nbsp;·&nbsp; [The Field Guide](https://studioobrien.com/blog/), plain-language writing on local search and small business websites
