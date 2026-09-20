@@ -39,8 +39,8 @@ Most reporting in local search is a screenshot taken from the owner's own shop, 
     <td width="46%" valign="top">
       <a href="https://candyflex.github.io/disrepair/">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/disrepair-dark.png">
-          <img src="assets/disrepair-light.png" width="100%" alt="Disrepair: a small restaurant website shown on a phone, with a line pointing at a phone number that cannot be tapped, beside the count 43 of 46 restaurant websites read in Tampa had something wrong">
+          <source media="(prefers-color-scheme: dark)" srcset="assets/disrepair-phone-dark.png">
+          <img src="assets/disrepair-phone-light.png" width="100%" alt="Disrepair: a small restaurant website shown on a phone, with a line pointing at a phone number that cannot be tapped, beside the count 43 of 46 restaurant websites read in Tampa had something wrong">
         </picture>
       </a>
     </td>
