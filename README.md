@@ -71,12 +71,6 @@ The tools below are what we measure with. Free and open source.
   </tr>
 </table>
 
-## How the work gets done
+---
 
-| Measure before advising | Numbers you can check | Plain language |
-|---|---|---|
-| A recommendation comes with the reading that produced it. | If a figure cannot be traced back and run again, it does not get published. | A business owner should be able to follow the whole argument without a glossary. |
-
-## Find the studio
-
-**[studioobrien.com](https://studioobrien.com)** &nbsp;·&nbsp; [The Field Guide](https://studioobrien.com/blog/), plain-language writing on local search and small business websites
+**[studioobrien.com](https://studioobrien.com)** &nbsp;·&nbsp; [The Field Guide](https://studioobrien.com/blog/)
