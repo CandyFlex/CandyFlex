@@ -1,13 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <img src="assets/banner-light.png" width="100%" alt="Jarred O'Brien, Studio O'Brien. Websites for local businesses, and open tools that measure how they get found.">
-</picture>
+<img src="assets/banner-handled.png" width="100%" alt="How your business looks online, handled. Built, fixed, measured and kept up. Maps, website, reviews, photos and AI search, each checked off.">
 
 <br>
 
-I run [Studio O'Brien](https://studioobrien.com), a web design and local search studio in Shelby, North Carolina. We build websites for local businesses, and we build the tools that measure whether those businesses actually get found.
+Before anyone calls a local business, they've already looked it up: the map listing, the photos, the reviews, the website on their phone, the answer an AI assistant gives. We take care of all of it, and measure what changes, so the owner can get back to the work.
 
-Most reporting in local search is a screenshot taken from the owner's own shop, where everything looks great. I would rather measure it properly and show the numbers, including the ones that are not flattering.
+The tools below are what we measure with. Free and open source.
 
 ## Tools
 
