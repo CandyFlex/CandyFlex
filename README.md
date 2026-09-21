@@ -73,4 +73,4 @@ The tools below are what we measure with. Free and open source.
 
 ---
 
-**[studioobrien.com](https://studioobrien.com)** &nbsp;·&nbsp; [The Field Guide](https://studioobrien.com/blog/)
+[Studio O'Brien](https://studioobrien.com) &nbsp;·&nbsp; [The Field Guide](https://studioobrien.com/blog/) &nbsp;·&nbsp; [Contact](https://studioobrien.com/contact)
