@@ -15,10 +15,7 @@ Most reporting in local search is a screenshot taken from the owner's own shop, 
   <tr>
     <td width="46%" valign="top">
       <a href="https://candyflex.github.io/falloff/">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/falloff-dark.png">
-          <img src="assets/falloff-light.png" width="100%" alt="Falloff: a ring map of where one business shows up on Google Maps, with its reach marked at 6.2 km">
-        </picture>
+        <img src="assets/falloff-say-dark.png" width="100%" alt="Falloff: a ring map of where one business shows up on Google Maps. Shows how far from a business people can be and still find it on Google Maps.">
       </a>
     </td>
     <td valign="top">
@@ -38,10 +35,7 @@ Most reporting in local search is a screenshot taken from the owner's own shop, 
   <tr>
     <td width="46%" valign="top">
       <a href="https://candyflex.github.io/disrepair/">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/disrepair-phone-2-dark.png">
-          <img src="assets/disrepair-phone-2-light.png" width="100%" alt="Disrepair: a small restaurant website shown on a phone, the phone number marked as the part that cannot be tapped, beside the count 43 of 46 restaurant websites read in Tampa had something wrong">
-        </picture>
+        <img src="assets/disrepair-say-dark.png" width="100%" alt="Disrepair: a small restaurant website shown on a phone, the phone number marked as the part that cannot be tapped. Checks a town's local business websites and shows which ones are broken.">
       </a>
     </td>
     <td valign="top">
@@ -53,6 +47,29 @@ Most reporting in local search is a screenshot taken from the owner's own shop, 
         <a href="https://github.com/CandyFlex/disrepair"><b>Source</b></a>
       </p>
       <p><code>npx github:CandyFlex/disrepair help</code></p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="46%" valign="top">
+      <a href="https://candyflex.github.io/tells/">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/tells-cobalt-dark.png">
+          <img src="assets/tells-cobalt-light.png" width="100%" alt="Tells: a sentence with the word vibrant marked. Finds the phrases that make your writing read as machine-written.">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <h3><a href="https://github.com/CandyFlex/tells">Tells</a></h3>
+      <p>Paste in a draft and Tells marks the phrases that read as machine-written, each with the pattern it matched and the line and column where it sits. It gives no score and no verdict on who wrote it. It shows you where to start editing.</p>
+      <p>
+        <a href="https://candyflex.github.io/tells/"><b>Website</b></a> &nbsp;&middot;&nbsp;
+        <a href="https://candyflex.github.io/tells/rules.html"><b>Rules</b></a> &nbsp;&middot;&nbsp;
+        <a href="https://github.com/CandyFlex/tells"><b>Source</b></a>
+      </p>
+      <p><code>npx github:CandyFlex/tells draft.md</code></p>
     </td>
   </tr>
 </table>
