@@ -23,7 +23,7 @@ The tools below are what we measure with. Free and open source.
         <a href="https://candyflex.github.io/falloff/case-study.html"><b>Case study</b></a> &nbsp;·&nbsp;
         <a href="https://github.com/CandyFlex/falloff"><b>Source</b></a>
       </p>
-      <p><code>npx github:CandyFlex/falloff help</code></p>
+      <p><code>npx github:CandyFlex/falloff</code></p>
     </td>
   </tr>
 </table>
@@ -43,7 +43,7 @@ The tools below are what we measure with. Free and open source.
         <a href="https://candyflex.github.io/disrepair/case-study.html"><b>Case study</b></a> &nbsp;&middot;&nbsp;
         <a href="https://github.com/CandyFlex/disrepair"><b>Source</b></a>
       </p>
-      <p><code>npx github:CandyFlex/disrepair help</code></p>
+      <p><code>npx github:CandyFlex/disrepair</code></p>
     </td>
   </tr>
 </table>
@@ -66,7 +66,7 @@ The tools below are what we measure with. Free and open source.
         <a href="https://candyflex.github.io/tells/rules.html"><b>Rules</b></a> &nbsp;&middot;&nbsp;
         <a href="https://github.com/CandyFlex/tells"><b>Source</b></a>
       </p>
-      <p><code>npx github:CandyFlex/tells draft.md</code></p>
+      <p><code>npx github:CandyFlex/tells</code></p>
     </td>
   </tr>
 </table>
