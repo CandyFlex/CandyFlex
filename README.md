@@ -71,6 +71,27 @@ The tools below are what we measure with. Free and open source.
   </tr>
 </table>
 
+## Also from the studio
+
+<table>
+  <tr>
+    <td width="46%" valign="top">
+      <a href="https://gamemarketdata.com">
+        <img src="assets/gmd-pixel-dark.png" width="100%" alt="Game Market Data: a pixel night city. Games are a $200 billion+ market that keeps its sales hidden; GMD turns them into odds, projections and verdicts.">
+      </a>
+    </td>
+    <td valign="top">
+      <h3><a href="https://gamemarketdata.com">Game Market Data</a></h3>
+      <p>Games are a $200 billion+ a year market, and the largest gaming marketplaces in the world keep almost all of their sales private. GMD turns that hidden market into numbers: 190,000+ games read every night, sales estimated and checked against 453 published figures, then odds, projections and, next, verdicts on any game idea.</p>
+      <p>
+        <a href="https://gamemarketdata.com"><b>Website</b></a> &nbsp;&middot;&nbsp;
+        <a href="https://gamemarketdata.com/idea-check"><b>Idea check</b></a> &nbsp;&middot;&nbsp;
+        <a href="https://gamemarketdata.com/method"><b>Method</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 ---
 
 [Studio O'Brien](https://studioobrien.com) &nbsp;·&nbsp; [The Field Guide](https://studioobrien.com/blog/) &nbsp;·&nbsp; [Contact](https://studioobrien.com/contact)
