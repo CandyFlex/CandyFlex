@@ -77,7 +77,7 @@ The tools below are what we measure with. Free and open source.
   <tr>
     <td width="46%" valign="top">
       <a href="https://gamemarketdata.com">
-        <img src="assets/gmd-pixel-dark.png" width="100%" alt="Game Market Data: a pixel night city. Games are a $200 billion+ market that keeps its sales hidden; GMD turns them into odds, projections and verdicts.">
+        <img src="assets/gmd-card.png" width="100%" alt="Game Market Data: a pixel night city. Games are a $200 billion+ market that keeps its sales hidden; GMD turns them into odds, projections and verdicts.">
       </a>
     </td>
     <td valign="top">
